@@ -31,3 +31,6 @@
     <li>Aprender Node.JS;</li>
   </ol>
 </div>
+
+
+![Snake animation](https://github.com/PedroPGPR/PedroPGPR/blob/output/github-contribution-grid-snake.svg)
