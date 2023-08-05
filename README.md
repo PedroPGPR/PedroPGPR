@@ -32,4 +32,6 @@
   </ol>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPGPR)](https://github.com/anuraghazra/github-readme-stats)
+
 ![snake gif](https://github.com/PedroPGPR/PedroPGPR/blob/output/github-snake-dark.svg)
