@@ -1,4 +1,4 @@
-### Olá o meu nome é Pedro Rodrigues 👋
+### Hi! My name is Pedro Rodrigues 👋
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/PedroPGPR/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_rodrigues336/)
@@ -7,7 +7,7 @@
 
 ![PedroPGPR GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPGPR&show_icons=true&theme=tokyonight)
 
-### Tecnologias que utilizo
+### Tecnologys that i use:
 
 <div style="display: inline_block">
   <br>
@@ -23,12 +23,12 @@
 </div>
 
 <div>
-  <h5>O meu Circuito de Aprendizagem:</h5>
+  <h5>My learning circuit:</h5>
   <ol>
-    <li>Consolidar PHP;</li>
-    <li>Aprender LARAVEL;</li>
-    <li>Aprender JavaScript;</li>
-    <li>Aprender Node.JS;</li>
+    <li>Consolidate PHP;</li>
+    <li>Learn LARAVEL;</li>
+    <li>Learn JavaScript;</li>
+    <li>Learn Node.JS;</li>
   </ol>
 </div>
 
