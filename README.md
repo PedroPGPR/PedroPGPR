@@ -25,10 +25,9 @@
 <div>
   <h5>My learning circuit:</h5>
   <ol>
-    <li>Consolidate PHP;</li>
-    <li>Learn LARAVEL;</li>
+    <li>Consolidate PHP;</li>  
     <li>Learn JavaScript;</li>
-    <li>Learn Node.JS;</li>
+    <li>Learn LARAVEL;</li>
   </ol>
 </div>
 
